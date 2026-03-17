@@ -13,6 +13,7 @@ y = f(x)
 plt.plot(x, y, label="f(x)")
 plt.grid()
 
+#toppunktet
 plt.plot(1.7777, 0.7069, 'ro', label="Toppunkt")
 
 plt.legend()
